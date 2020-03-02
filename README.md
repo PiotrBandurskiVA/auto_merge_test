@@ -1,1 +1,2 @@
-# auto_merge_test
+# auto_merge_testi
+test
