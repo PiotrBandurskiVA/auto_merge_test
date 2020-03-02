@@ -1,2 +1,2 @@
-aasd# auto_merge_testi
+a:aasd# auto_merge_testi
 iitest
